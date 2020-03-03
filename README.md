@@ -21,5 +21,5 @@
    17)  ls  : ls shows all listing directories
    18)  oc get route  : get route and delete it
    19)  oc delete route app1
-   20)  oc create route edge --service=app1 --hostname=app1-myproject.2886795276-80-host18nc.environments.katacoda.com --key=private.key --cert=public.crt  : againg create route using above command
-   21)  oc get route : get route and paste it and run using https://.....
+   20)  oc create route edge --service=app1 --hostname=app1-myproject.2886795276-80-host18nc.environments.katacoda.com --key=private.key --cert=public.crt  : againg create route using above command (put the deleted route address)
+   21)  oc get route : get route and paste it and run using https://.....  
